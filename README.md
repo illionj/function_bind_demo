@@ -21,7 +21,7 @@ A simple function binding demo that achieves the following basic features:
 #### *Basic Usage*
 
 ```cpp
-#include "func_bind_T.h"
+#include "func_bind_T.hpp"
 #include "add.h"
 
 template <typename T>

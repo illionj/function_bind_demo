@@ -1,5 +1,5 @@
 
-#include "func_bind_T.h"
+#include "func_bind_T.hpp"
 #include "add.h"
 
 template <typename T>
